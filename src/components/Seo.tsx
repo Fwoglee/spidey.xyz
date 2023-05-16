@@ -10,15 +10,15 @@ const Seo = () => {
             <meta name='robots' content='index, follow'/>
             <meta name='googlebot' content='index,follow'/>
 
-            <meta name="description" content="he/him ・ Full-Stack Developer" />
+            <meta name="description" content="Selam ・ Altyapı Stoklarımız dolu" />
 
-            <meta property='og:url' content='https://romanwashere.xyz' />
+            <meta property='og:url' content='https://spidey.xyz' />
             <meta property='og:type' content='website'/>
             <meta property="og:title" content={`${config.github.username} | Full-Stack Developer`} />
-            <meta name="og:description" content="he/him ・ Full-Stack Developer" />
+            <meta name="og:description" content="Selam ・ Altyapı Stoklarımız dolu" />
 
             <meta property="og:image" content="/favicon.png" />
-            <meta property="og:image:alt" content="romanwashere.xyz" />
+            <meta property="og:image:alt" content="spidey.xyz" />
             <meta property="og:locale" content="en_GB" />
             <meta name="theme-color" content="#00afe8" />
         </Helmet>
