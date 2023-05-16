@@ -1,4 +1,4 @@
-import { BsDiscord, BsInstagram, BsSteam, BsGithub, Bs123 } from 'react-icons/bs';
+import { BsDiscord, BsInstagram, BsYoutube, BsGithub, Bs123 } from 'react-icons/bs';
 import { IoLogoJavascript, IoLogoCss3 } from 'react-icons/io';
 import { AiFillHtml5 } from 'react-icons/ai'
 import { SiTypescript, SiVite } from 'react-icons/si';
@@ -7,31 +7,31 @@ import { TbBrandNextjs } from 'react-icons/tb';
 
 export default {
     'github': {
-        'username': 'romanwashere'
+        'username': 'Fwoglee'
     },
     'discord': {
-        'id': '622350390871982080'
+        'id': '990891443579154474'
     },
-    'social_media_accounts': [
+    'Sosyal Medya Hesaplarım': [
         {
             'label': 'Github',
-            'to': 'https://github.com/romanwashere',
+            'to': 'https://github.com/Fwoglee',
             'icon': BsGithub,
         },
         {
             'label': 'Discord',
-            'to': 'https://discord.com/123123',
+            'to': 'https://discord.gg/mmGQEvBmR2',
             'icon': BsDiscord,
         },
         {
             'label': 'Instagram',
-            'to': 'https://instagram.com/romanwashere',
+            'to': 'https://www.instagram.com/fwogleyorugle/?next=%2F',
             'icon': BsInstagram,
         },
         {
-            'label': 'Steam',
-            'to': 'https://instagram.com/romanwashere',
-            'icon': BsSteam,
+            'label': 'Youtube',
+            'to': 'https://www.youtube.com/channel/UCXZ4yISbjRY-tYllZK9kC_g',
+            'icon': BsYoutube,
         }
     ],
     'techs': [
