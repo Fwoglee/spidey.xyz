@@ -7,10 +7,10 @@ import { TbBrandNextjs } from 'react-icons/tb';
 
 export default {
     'github': {
-        'username': 'Fwoglee'
+        'username': ''ıamuselless'
     },
     'discord': {
-        'id': '990891443579154474'
+        'id': '1113483955493146634'
     },
     'Sosyal Medya Hesaplarım': [
         {
@@ -20,7 +20,7 @@ export default {
         },
         {
             'label': 'Discord',
-            'to': 'https://discord.gg/mmGQEvBmR2',
+            'to': 'https://discord.gg/qF3mSrb4',
             'icon': BsDiscord,
         },
         {
